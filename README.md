@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Grace Wamaitha
-- 👀 An aspiring Data Analyst; I also love engaging with web development 
+- 👀 An aspiring Data Scientist; I also love engaging with software development 
 - 🌱 I’m currently learning Javascript, fine-tuning HTML and CSS, deep sea diving into python, SQL, Excel and Tableau; i know 😁 it's a cocktail ✨
-- 💞️ I’m looking to collaborate on impactful,fun✌️ and exciting projects🤯, whether inclined to data analytics📈 or web development 
+- 💞️ I’m looking to collaborate on impactful,fun✌️ and exciting projects🤯, whether inclined to data analysis📈 or software development 
 - 📫 Reach me via email wamaithag141@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: My name is Grace, I am Grace Wamaitha 😎
